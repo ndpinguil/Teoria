@@ -1,0 +1,37 @@
+Video de la Teoria:
+
+
+Teoría de React Router
+Teoría
+React Router es una biblioteca de enrutamiento para aplicaciones React que permite gestionar 
+la navegación y las URL de una aplicación de una sola página (SPA). 
+Facilita la creación de rutas, redirecciones y enlaces de navegación sin recargar la página,
+mejorando así la experiencia del usuario. Los principales componentes de React Router incluyen <Router>, <Route>, <Link>, 
+y hooks como useParams y useHistory.
+
+Reflexión
+La introducción de React Router ha transformado la manera en que los desarrolladores 
+construyen aplicaciones web modernas. La capacidad de manejar rutas dinámicamente dentro 
+de una aplicación de una sola página permite a los desarrolladores crear experiencias de usuario 
+más fluidas y reactivas. Al considerar cómo la navegación y la administración del estado de la URL
+pueden afectar la usabilidad y la funcionalidad de una aplicación, es evidente que herramientas 
+como React Router son esenciales para el desarrollo web contemporáneo.
+
+Analogía
+Imagina que estás navegando por un museo con varias salas temáticas. 
+Cada sala tiene una entrada específica, pero en lugar de salir del museo y volver a entrar por otra puerta, 
+puedes simplemente moverte de una sala a otra a través de pasillos internos. 
+React Router funciona de manera similar al proporcionar "pasillos" entre diferentes "salas" (rutas) 
+de una aplicación web, permitiendo a los usuarios moverse de una sección a otra sin tener que recargar la página completa.
+
+Resumen
+React Router es una herramienta crucial para la construcción de aplicaciones React de una sola página, 
+permitiendo una navegación fluida y la gestión de rutas dinámicas. A través de componentes como <Router>, 
+<Route>, <Link> y hooks como useParams, los desarrolladores pueden crear experiencias de usuario mejoradas y 
+más reactivas. La implementación efectiva de React Router mejora significativamente la usabilidad y la 
+funcionalidad de las aplicaciones web modernas.
+
+Referenciado de libros
+Banks, A., & Porcello, E. (2017). Learning React: Functional Web Development with React and Redux. O'Reilly Media.
+Grider, S. (2018). Modern React with Redux. Independently published.
+Hutson, M. (2021). React Router: Declarative Routing for React.js. Addison-Wesley Professional.
